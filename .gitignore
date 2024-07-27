@@ -1,0 +1,7 @@
+### User ###
+*.drawio.bkp
+log
+logs
+*.log
+tmp
+~$*
